@@ -1,11 +1,28 @@
 # Flexbox-Twitter
-## Project to implement Twitter's Home Page using Flexbox layout.
 
-The live example can be accessed [here](https://brunapm-twitter-clone.netlify.app/).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0fe6b989-95c6-487f-94ab-2e454c1f4a8f/deploy-status)](https://brunapm-twitter-clone.netlify.app/)
+![GitHub language count](https://img.shields.io/github/languages/count/brunapm/Flexbox-Twitter)
+![GitHub top language](https://img.shields.io/github/languages/top/brunapm/Flexbox-Twitter)
+![Lines of code](https://img.shields.io/tokei/lines/github/brunapm/Flexbox-Twitter)
+![GitHub repo size](https://img.shields.io/github/repo-size/brunapm/Flexbox-Twitter)
+![GitHub last commit](https://img.shields.io/github/last-commit/brunapm/Flexbox-Twitter)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+#### Project to implement Twitter's Home Page using Flexbox layout.
+
+### About
+
+The goal of this project is to replicate Twitter's Home Page layout, without implementing the functionalities, so I could try out Flexbox Layout in a real application.
 
 ### Status
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0fe6b989-95c6-487f-94ab-2e454c1f4a8f/deploy-status)](https://app.netlify.com/sites/brunapm-twitter-clone/deploys)
+The application is completed and [deployed](https://brunapm-twitter-clone.netlify.app/).
+
+### Technologies
+
+The following languages were used to build this project:
+- HTML
+- CSS
 
 ### Author
 
